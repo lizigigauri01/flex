@@ -1,0 +1,60 @@
+
+/* HEADERRRR */
+
+.container {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.headerflex {
+    display: flex;
+    justify-content: space-between;
+    border: 2px red dotted;
+}
+
+nav ul {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+
+li a {
+    color: #636060;
+    font-size: 17px;
+    font-family: Helvetica;
+}
+
+
+/* SECTION 1 */
+
+.s1 {
+    border: 2px red dotted;
+    height: 606px;
+    background-image: url(../images/section1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1 h1 {
+    color: #FFF;
+    font-size: 79px;
+    font-family: Helvetica;
+    font-weight: 700;
+    text-align: center;
+}
+
+.div1 h4 {
+    color: #FFF;
+    font-size: 19px;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+
+/* SECTION 2 */
