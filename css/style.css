@@ -108,7 +108,7 @@ li a {
 /* FOTOEBII */
 
 .cardebi {
-    width: 930px;
+    max-width: 930px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -116,7 +116,7 @@ li a {
 }
 
 .card {
-    width: 286px;
+    max-width: 286px;
     margin-bottom: 60px;
 }
 
